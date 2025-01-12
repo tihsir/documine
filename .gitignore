@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!chrome_extension/
+!chrome_extension/*
+
+!model.ipynb
+!parser.ipynb
+!constants.py
+!.env.example
+!Scraper.ipynb
+!clrun.py
+!make_chroma.py
+!requirements.txt
+!single_file.py
