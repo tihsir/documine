@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "AWS Chatbot Uploader",
+    "version": "1.0",
+    "description": "Upload files and interact with a chatbot hosted on AWS.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        // "16": "icon.jpg",
+        // "48": "icon.jpg",
+        // "128": "icon.jpg"
+      }
+    },
+    "host_permissions": ["<all_urls>"]
+  }
